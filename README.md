@@ -1,2 +1,8 @@
 # Unix-File-System-Implementation
-Algorithms and System Modelling Projects, Unix System Programming
+
+A Unix System modelling project of creating a Unix File System.
+
+Includes implementation of complete
+  front-end : Shell and System-Calls
+  back-end  : Data structures and Persistence
+
